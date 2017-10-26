@@ -20,9 +20,9 @@ int main() {
     getline(cin,a);
     cout << endl;
     
-    if(a == "dope") cout << "Hello DopeBoy" << endl;
-    else if(a == "rob") cout << "Hello Rob" << endl;
-    else if(a == "roman") cout << "Hello Roman" << endl;
+    if(a == "the dopest") cout << "Hello The dopestboy" << endl;
+    else if(a == "the robbenson") cout << "Hello The Robbenson" << endl;
+    else if(a == "the roman") cout << "Hello the Roman" << endl;
     else cout << "Hello Guest";
     
     cout << endl << endl;
