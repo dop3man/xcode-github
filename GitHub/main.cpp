@@ -23,6 +23,7 @@ int main() {
     if(a == "dope") cout << "Hello DopeBoy" << endl;
     else if(a == "rob") cout << "Hello Rob" << endl;
     else if(a == "roman") cout << "Hello Roman" << endl;
+    else cout << "Hello Guest";
     
     cout << endl << endl;
     return 0;
